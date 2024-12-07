@@ -1,0 +1,18 @@
+name: loo
+description: "A State Management Library for Flutter"
+version: 0.0.3
+homepage: https://github.com/othiagobruno/loo
+
+environment:
+  sdk: ^3.5.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
